@@ -1,4 +1,12 @@
 # ReflectionAnyLLM
+
+> **Archived fork.** I kept this fork for reference and do not maintain it. The original project is at
+> [antibitcoin/ReflectionAnyLLM](https://github.com/antibitcoin/ReflectionAnyLLM).
+
+<details>
+<summary>Original upstream README</summary>
+
+# ReflectionAnyLLM
 ![A preview of it used with Gemma 2 9b LLM](https://raw.githubusercontent.com/antibitcoin/ReflectionAnyLLM/4f4dde0daf04a279ce995918cc9023b66cb7c14b/Screenshot%202024-09-15%20204649.png)
 
 
@@ -145,3 +153,5 @@ This project is licensed under the MIT License, meaning you're free to use, modi
 Feel free to explore, modify, and share your improvements! If you have any questions or encounter issues, don’t hesitate to reach out.
 
 
+
+</details>
